@@ -1,4 +1,8 @@
 // Массив(Матриця)
+
+
+
+
 int main() {
 	const int rows = 3;// ряд
 	const int cols = 3;// стовпчик
